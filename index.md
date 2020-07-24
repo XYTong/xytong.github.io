@@ -7,16 +7,14 @@
       <h1>Xiangyu Tong</h1>
       <p><b>TU Chemnitz</b></p>
       <p><b>Θα΄ρθεις σαν αστραπή</b></p>
-      <p><b></b></p>
+      <p><b>AD1453</b></p>
     </td>
   </tr>
 </table>  
 
-## Welcome to My Homepage
+## Contact Me
 
-You can use the [editor on GitHub](https://github.com/XYTong/xytong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The name also appears as '童翔宇', 'Tong, Xiangyu' or 'xiangyutong'.
 
 ### Markdown
 
