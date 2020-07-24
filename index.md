@@ -1,9 +1,9 @@
 <table border="0">
   <tr>
-    <td width="20%">
+    <td width="25%">
       <img src="/temp.PNG" width="100%">
     </td>
-    <td width="80%">
+    <td width="75%">
       <h1>Xiangyu Tong</h1>
       <p><b>精罗分子</b></p>
       <p><b>TU Chemnitz</b></p>
