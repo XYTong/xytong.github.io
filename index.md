@@ -15,8 +15,14 @@
 
 ## Contact Me
 
-The name also appears as '童翔宇', 'Tong, Xiangyu' or 'xiangyutong'.
+The name also appears as '童翔宇', 'Tong, Xiangyu' or 'xiangyutong'.  
 
+* [Github](https://github.com/XYTong)
+* [Facebook](https://www.facebook.com/profile.php?id=100008055407748)  
+* [LinkedIn](https://www.linkedin.com/in/xiangyu-tong-8946ba1b3)
+
+* location [Vettersstr.72, Chemnitz, Germany, 09126]  
+* Tel [+49 1756638738](tel:+491756638738)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
