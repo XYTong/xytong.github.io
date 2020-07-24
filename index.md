@@ -6,8 +6,8 @@
     <td width="75%">
       <h1>Xiangyu Tong</h1>
       <p><b>TU Chemnitz</b></p>
-      <p><b>精罗分子</b></p>
-      <p><b>Address：Vettersstr.72, Chemnitz, Germany，09126</b></p>
+      <p><b>Θα΄ρθεις σαν αστραπή</b></p>
+      <p><b></b></p>
     </td>
   </tr>
 </table>  
