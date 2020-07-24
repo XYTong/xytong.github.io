@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="/temp.PNG" width="100%">
+      <img src="/temp.PNG" width="115%">
     </td>
     <td width="75%">
       <h1>Xiangyu Tong</h1>
@@ -13,7 +13,7 @@
   </tr>
 </table>  
 
-## Welcome to GitHub Pages
+## Welcome to My Homepage
 
 You can use the [editor on GitHub](https://github.com/XYTong/xytong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
