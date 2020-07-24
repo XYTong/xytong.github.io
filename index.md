@@ -5,9 +5,8 @@
     </td>
     <td width="75%">
       <h1>Xiangyu Tong</h1>
-      <p><b>精罗分子</b></p>
       <p><b>TU Chemnitz</b></p>
-      <p><b>[editor on GitHub](https://github.com/XYTong/xytong.github.io/edit/master/index.md)</b></p>
+      <p><b>精罗分子</b></p>
       <p><b>Address：Vettersstr.72, Chemnitz, Germany，09126</b></p>
     </td>
   </tr>
